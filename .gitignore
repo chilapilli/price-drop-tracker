@@ -1,0 +1,7 @@
+.env
+tracker_state.json
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
